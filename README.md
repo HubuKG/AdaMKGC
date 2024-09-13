@@ -34,7 +34,7 @@ torchmetrics==0.7.3
 
 ## 2. Download data
 
-- We use WN18-IMG, FB15k-237-IMG, and WN18RR++ datasets for multimodal knowledge graph completion.
+- We use WN18-IMG, FB15k-237-IMG, and WN18RR++ datasets for multimodal knowledge graph completion
 - You can download the WN18-IMG, FB15k-237-IMG dataset from [Google Drive](https://drive.google.com/drive/folders/1FRc-649hm1DhjODlVlFUSAE1UDZKq4Ct?usp=sharing)
 
 ## 3. Data Processer
