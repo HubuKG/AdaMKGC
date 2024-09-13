@@ -16,22 +16,14 @@ AdaMKGC was implemented using PyTorch, with a CPU (Intel Xeon Gold6330) and a GP
 
 ### 1. Prerequisites
 
-Python==3.8,
-
-Pytorch==1.11.0,
-
-transformers==4.11.3,
-
-torchvision==0.8.2,
-
+Python==3.8
+Pytorch==1.11.0
+transformers==4.11.3
+torchvision==0.8.2
 scikit-learn==1.0,
-
-numpy>=1.21,
-
-tokenizers==0.10.3,
-
+numpy>=1.21
+tokenizers==0.10.3
 torchmetrics==0.7.3
-
 
 ### 2. Download data
 
