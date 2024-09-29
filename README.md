@@ -30,7 +30,7 @@ AdaMKGC was implemented using PyTorch, with a CPU (Intel Xeon Gold6330) and a GP
 - We use WN18-IMG, FB15k-237-IMG, and WN18RR++ datasets for multimodal knowledge graph completion
 - You can download the WN18-IMG, FB15k-237-IMG dataset from [Google Drive](https://drive.google.com/drive/folders/1FRc-649hm1DhjODlVlFUSAE1UDZKq4Ct?usp=sharing)
 
-## 3. Data Processer
+## 3. Data Processor
 
 ```
 python data processer/processor.py
